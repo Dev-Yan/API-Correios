@@ -8,6 +8,6 @@ https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?w
   Adicionar Referência Web => Insira a URL e de um nome a referência Web.  
 </p>
 <br/>
-<br/>
-<p> 
+
+<p> <strong> wsCorreios </strong> foi o nome que dei para referência. </p>
 <img src="https://i.ibb.co/HGZ0GJ4/cep.png"/>
