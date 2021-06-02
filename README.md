@@ -7,3 +7,4 @@ https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?w
   Avançado... => 
   Adicionar Referência Web => Insira a URL e de um nome a referência Web.  
 </p> 
+<img src="cep"/>
